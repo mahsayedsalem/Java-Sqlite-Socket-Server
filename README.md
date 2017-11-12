@@ -1,1 +1,1 @@
-# Java-Sqlite-Socket-Server
+# Socket Server handling SQLite Database
